@@ -1,0 +1,1 @@
+# Spatial-autocorrelation-on-crime-rates-of-denmark
